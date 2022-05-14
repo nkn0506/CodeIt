@@ -22,6 +22,9 @@ This repository is consists of most popular and conceptual problem statement on 
 - Coding Platform: LeetCode, gfg, codechef, codeforces, etc
 - Youtube channels: take you forward
 
+-----------------------------------------------------------------------
+Drop a ♥️ if you like the work😇
+
 
 
 
