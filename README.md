@@ -1,2 +1,24 @@
 # CodeIt
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+## Data Structures and Algorithms
+
+[![N|Solid](https://repository-images.githubusercontent.com/354254077/bce9404a-5a1c-491c-b778-ee99c018b00e)](https://nodesource.com/products/nsolid)
+
+This repository is consists of most popular and conceptual problem statement on data structures and algorithms.
+
+## 📌📌Topics Covereed
+- Array
+- String
+- Stack
+- Queue
+- Linked list
+- Dynamic Programming
+- Tree
+- Binary Search
+- Maths
+- Recursion
+- Backtracking
+
+
+
+
+
