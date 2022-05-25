@@ -58,7 +58,7 @@ int knapSack(int w,int wt[],int val[],int i,int **dp)
 }
 int main()
 {
-	int val[] = { 1,2,5,6 };
+    int val[] = { 1,2,5,6 };
     int wt[] = { 2,3,4,5 };
     int w = 8;
     int n = sizeof(val) / sizeof(val[0]);
