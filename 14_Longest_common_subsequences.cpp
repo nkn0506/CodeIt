@@ -29,7 +29,7 @@ public:
     }
 };
 
-Approach 1: Memoization implementation
+Approach 1: Memoization implementation   Time complexity: O(N*M)
 */
 
 #include<stdio.h>
