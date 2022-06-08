@@ -12,6 +12,27 @@ Input: m = 3, n = 7
 Output: 28
 
 1 <= m, n <= 100
+
+Approach 1:
+Using dynamic programming, Time complexity: O(N*M)
+
+int find_ans(int i, int j,int n,int m,vector<vector<int>> &dp)
+{
+    if(i>=n || j>=m)
+    {
+        return 0;
+    }
+    if(i==(n-1) && j==(m-1)
+    {
+       return 1;
+    }
+    
+    if(dp[i][j]!=-1)
+    {
+       return dp[i][j];
+    }
+    return dp[i][j] = find_ans(i+1,j,n,m,dp)+find_ans(i,j+1,n,m,dp);
+}
 */
 class Solution {
 public:
