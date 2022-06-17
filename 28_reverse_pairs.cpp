@@ -40,6 +40,7 @@ public:
             p++;
         }
         
+        
         p = start;
         q = mid + 1;
         int r = 0;
