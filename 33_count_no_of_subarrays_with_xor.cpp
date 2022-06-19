@@ -1,3 +1,4 @@
+
 /*
 to find xor from 1 to n: 
 1.divide n with 4
